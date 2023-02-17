@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# There's nothing to see here. Move along.
+# Thanks for your curiosity. A bit about me.
+
+- I (used to) code, multiple languages, early advocate of JavaScript
+- I read about design, engineering, and product strategy
+- I think about the future and extrapolate technology
+- Co-founder at Quantum Mob
+
+Talk to me about music production, product strategy, ML, sales process, or whatever's on your mind
