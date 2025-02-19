@@ -13,11 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Thanks for your curiosity. A bit about me.
+# Thanks for your curiosity. A bit about me. 🇨🇦🇰🇷🤖
 
-- I (used to) code, multiple languages, early advocate of JavaScript
-- I read about design, engineering, and product strategy
+🔨 building Cuped.ai
+
+- I code multiple languages, early advocate of JavaScript
+- I practice design, engineering, ML, and product strategy
+- I'm curious about quantum mechanics, molecular bio, simulation theory 
 - I think about the future and extrapolate technology
-- Co-founder at Quantum Mob
 
-Talk to me about music production, product strategy, ML, sales process, or whatever's on your mind
+Currently:
+- Co-founder @ Cuped.ai
+- Hacker @ Product Hack
+
+Previously: 
+- Co-founder @ Quantum Mob
+
+Talk to me about music production, product strategy, ML, or the future
